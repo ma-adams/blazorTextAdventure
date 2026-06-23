@@ -1,2 +1,2 @@
 # blazorTextAdventure
-text adventure created in blazor framework
+text adventure created in microsoft blazor framework
